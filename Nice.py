@@ -136,4 +136,4 @@ async def suggest(ctx, *, msg: str):
     await bot.send_message(ctx.message.channel, embed=embed_2)
     await bot.delete_message(ctx.message)
 			
-bot.run('NTE2MDcwMjkyNjI4NDM5MDYw.Dt97JA.VqXs1VpUagv0ZfuBB3iWx4NnOWY'l
+bot.run('NTE2MDcwMjkyNjI4NDM5MDYw.Dt97JA.VqXs1VpUagv0ZfuBB3iWx4NnOWY')
