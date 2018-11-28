@@ -1,1 +1,2 @@
-worker: python nicebot.py
+worker: python nicebot1.py
+
